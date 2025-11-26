@@ -1,4 +1,4 @@
-# Styxa projekt (Vue + Node.js + PostgreSQL)
+# Styxa projekt - Full-Stack Web App (Vue + Node.js + PostgreSQL)
 
 Ez a projekt a 3 hónapos Styxa IT Intro kurzus zárófeladataként készült, ahol önállóan építettem fel egy full-stack webalkalmazást modern technológiákkal (Tailwind CSS, Vue.js, Node.js/Express, PostgreSQL).
 
@@ -9,6 +9,9 @@ A felhasználók:
  - adatokat tárolhatnak az általuk rögzített városokról
  - egy városra kattintva megtekinthetik annak részletes információit
 
+## 🖼️ Funkciók
+
+
 ## 🔧 Mit tanultam a projekt fejlesztése során
 **Ez a projekt különösen sokat segített a következők mélyebb megértésében:**
  - Vue komponens-struktúra és eseménykezelés
@@ -17,11 +20,12 @@ A felhasználók:
  - Full-stack alkalmazás felépítése a frontendtől a szerverig
  - Tailwind használata gyors UI-készítéshez
 
+
 ## 🚀 Technológiák
  - Frontend: Vue 3, Tailwind CSS
  - Backend: Node.js, Express
  - Adatbázis: PostgreSQL
- - Egyéb: REST API
+ - Kommunikáció: REST API
 
 ## ⚠️ Élő demo
 
