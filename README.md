@@ -1,6 +1,6 @@
 # Styxa projekt - Full-Stack Web App (Vue + Node.js + PostgreSQL)
 
-Ez a projekt a 3 hónapos Styxa IT Intro kurzus zárófeladataként készült, ahol önállóan építettem fel egy full-stack webalkalmazást modern technológiákkal (Tailwind CSS, Vue.js, Node.js/Express, PostgreSQL).
+Ez a projekt a **3 hónapos Styxa IT Intro kurzus zárófeladataként készült**, ahol önállóan építettem fel egy **full-stack webalkalmazást modern technológiákkal** (Tailwind CSS, Vue.js, Node.js/Express, PostgreSQL).
 
 ## 🎯 Projekt célja
 A felhasználók:
@@ -22,10 +22,10 @@ A felhasználók:
 
 
 ## 🚀 Technológiák
- - Frontend: Vue 3, Tailwind CSS
- - Backend: Node.js, Express
- - Adatbázis: PostgreSQL
- - Kommunikáció: REST API
+ - **Frontend:** Vue 3, Tailwind CSS
+ - **Backend:** Node.js, Express
+ - **Adatbázis:** PostgreSQL
+ - **Kommunikáció:** REST API
 
 ## ⚠️ Élő demo
 
