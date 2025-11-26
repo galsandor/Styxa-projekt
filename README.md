@@ -11,7 +11,7 @@ A felhasználók:
 
 ## 🔧 Mit tanultam a projekt fejlesztése során
 **Ez a projekt különösen sokat segített a következők mélyebb megértésében:**
- - Vue komponens-struktúra, props, state és eseménykezelés
+ - Vue komponens-struktúra és eseménykezelés
  - API-hívások készítése és kommunikáció a Node.js backenddel
  - Adatbázis-kezelés PostgreSQL-ben
  - Full-stack alkalmazás felépítése a frontendtől a szerverig
