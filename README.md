@@ -27,3 +27,5 @@ A felhasználók:
 
 A projekt jelenleg **nem érhető el online**, mert a frontend és backend külön mappában fut és a konfiguráció nem ideális deployhoz.
 A projektet **személyesen vagy helyi futtatással** tudom bemutatni.
+
+Gál Sándor
