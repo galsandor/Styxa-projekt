@@ -4,7 +4,7 @@ Ez a projekt a **3 hónapos Styxa IT Intro kurzus zárófeladataként készült*
 
 ## 🎯 Projekt célja
 A felhasználók:
- - bejelentkezhetnek a City oldalra
+ - kattinthatnak a City oldalra
  - új városokat adhatnak hozzá
  - adatokat tárolhatnak az általuk rögzített városokról
  - egy városra kattintva megtekinthetik annak részletes információit
