@@ -9,7 +9,14 @@ A felhasználók:
  - adatokat tárolhatnak az általuk rögzített városokról
  - egy városra kattintva megtekinthetik annak részletes információit
 
-## 🖼️ Funkciók
+## 🖼️ Funkciók (képernyőképekkel)
+
+# 1️⃣ Home oldal
+ - A főoldal bemutatja a projekt célját és a használt technológiákat.
+ - Tartalmaz egy **„Styxa” gombot**, amelyre kattintva a felhasználó átirányítódik a Styxa oldalára.
+![Home page](./screenshots/1.png)
+
+# 2️⃣ City oldal - Városok listázása
 
 
 ## 🔧 Mit tanultam a projekt fejlesztése során
